@@ -2,7 +2,6 @@
 |--------------:|-------------------------------------------------------------|
 | Language                  :| Javascript , TypeScript, C++                                 |
 | FrameWork                 : | Reactjs , ExpressJs                             |
-| DataBase   :   | MongoDB , Mysql , sqlite , Postgres , Redis , ElasticSearch |
+| DataBase   :   | MongoDB , Mysql  , Postgres |
 | API         :  | Postman ,  OpenApi , GraphQL       |
-| RealTime    :  | socket.io , webSocket                                         |
-| DevOps       : | Docker                                                      |      
+| RealTime    :  | socket.io , webSocket                                         |     
